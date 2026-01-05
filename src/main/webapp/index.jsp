@@ -41,7 +41,7 @@
         <div class="carousel">
             <!-- <div class="slider">
                 <div class="slide-content">
-                    <h1 class="movie-title">loki</h1>
+                    <h1 class="movie-title">loki</h2>
                     <p class="movie-des">Lorem ipsum title, sit amet consectetur adipisicing elit. Quam distinctio molestiae quis praesentium cum obcaecati eveniet voluptates exercitationem eum accusantium.</p>
                 </div>
                 <img src="./assets/img/slider 1.png" alt="Slider">
@@ -49,7 +49,7 @@
         </div>
     </div>
 
-    <!-- ------------------ Video Card ------------------ -->
+    <!-- ------------------ Video Card ------------------- -->
     <div class="video-card-container">
         <div class="video-card">
             <img src="./assets/img/disney.png" class="video-card-image" alt="">
